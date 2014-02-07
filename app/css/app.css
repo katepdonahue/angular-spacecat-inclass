@@ -78,3 +78,6 @@ h1 {
   animation: vortex 40s ease-in-out 0s infinite ;
 }
 
+li {
+  list-style-type: none;
+}
