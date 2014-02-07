@@ -40,5 +40,5 @@ spacecatApp.controller('CatListCtrl', function($scope) {  // this is the way we 
       "color": "brown",
       "personality": "relaxed",
       "planets": 7}
-  ]
+  ];
 });
