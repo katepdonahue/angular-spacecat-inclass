@@ -1,7 +1,6 @@
 'use strict';
 
-var spacecatApp = angular.module('spacecatApp', []);
-
+var spacecatControllers = angular.module('spacecatControllers', []);
 
 spacecatApp.controller('CatListCtrl', function($scope, $http){
   
